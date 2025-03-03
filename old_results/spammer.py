@@ -21,7 +21,7 @@ from nltk.tokenize import word_tokenize
 TRAIN_AND_TEST_SIZE = 1000
 TEST_FRACTION = 0.1
 
-data = pd.read_csv("spam.csv")
+data = pd.read_csv("old_results/spam.csv")
 data.drop(data.columns[[0, 1]], axis=1, inplace=True)
 data = data.iloc[:TRAIN_AND_TEST_SIZE]
 
