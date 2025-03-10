@@ -15,6 +15,7 @@ References:
 https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf
 https://stats.stackexchange.com/questions/105602/example-of-how-the-log-sum-exp-trick-works-in-naive-bayes
 
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 
 Notes:
 
